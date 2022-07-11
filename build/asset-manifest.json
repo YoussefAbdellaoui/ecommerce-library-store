@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c09dcd79.chunk.css",
+    "main.js": "/static/js/main.8c348a64.chunk.js",
+    "main.js.map": "/static/js/main.8c348a64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.915d7182.js",
+    "runtime-main.js.map": "/static/js/runtime-main.915d7182.js.map",
+    "static/js/2.51880c24.chunk.js": "/static/js/2.51880c24.chunk.js",
+    "static/js/2.51880c24.chunk.js.map": "/static/js/2.51880c24.chunk.js.map",
+    "static/js/3.88c0a4b8.chunk.js": "/static/js/3.88c0a4b8.chunk.js",
+    "static/js/3.88c0a4b8.chunk.js.map": "/static/js/3.88c0a4b8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c09dcd79.chunk.css.map": "/static/css/main.c09dcd79.chunk.css.map",
+    "static/js/2.51880c24.chunk.js.LICENSE.txt": "/static/js/2.51880c24.chunk.js.LICENSE.txt",
+    "static/media/Library.70d0a6a9.svg": "/static/media/Library.70d0a6a9.svg",
+    "static/media/Undraw_Books.64f45ed2.svg": "/static/media/Undraw_Books.64f45ed2.svg",
+    "static/media/empty_cart.378125a8.svg": "/static/media/empty_cart.378125a8.svg",
+    "static/media/index.css": "/static/media/wave.42edd597.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.915d7182.js",
+    "static/js/2.51880c24.chunk.js",
+    "static/css/main.c09dcd79.chunk.css",
+    "static/js/main.8c348a64.chunk.js"
+  ]
+}
