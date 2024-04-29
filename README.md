@@ -1,4 +1,4 @@
-# React E-Commerce Library App
+# React E-Commerce Library Store
 
 ### Live Demo:
 https://ecommerce-library.netlify.app/
