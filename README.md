@@ -1,7 +1,7 @@
 # React E-Commerce Library App
 
 ### Live Demo:
-https://peaceful-naiad-caa42d.netlify.app/
+https://ecommerce-library.netlify.app/
 
 ### Includes features such as:
 - Dynamic paging for each book
