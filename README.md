@@ -1,7 +1,7 @@
 # React E-Commerce Library Store
 
 ### Live Demo:
-https://ecommerce-library.netlify.app/
+[E-commerce Library Store](https://ecommerce-library-store-jhk9-ih8ovkqb7.vercel.app/)
 
 ### Includes features such as:
 - Dynamic paging for each book
