@@ -1,4 +1,4 @@
-# React E-Commerce Library Store
+# React E-Commerce Library Store V2
 
 ### Live Demo:
 [E-commerce Library Store](https://ecommerce-library-store-jhk9-ih8ovkqb7.vercel.app/)
